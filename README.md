@@ -1,7 +1,7 @@
 # KiKojast
 
 Implementation of an application 
-similar to Yelp and Kaikojast
+similar to Yelp and Kikojast
 
 With:
 
