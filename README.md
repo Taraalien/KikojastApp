@@ -1,3 +1,10 @@
 # KiKojast
 
-Add Some Features for KiKojast website.
+Implementation of an application 
+similar to Yelp and Kaikojast
+
+With:
+
+java17spring boot-spring 
+
+data-mapstruct-lombok
